@@ -37,9 +37,12 @@ learning how to move work done in the testing branch to GitHub.*
 # What tools would you like to learn more about?
 1. GitHub
   1. *In the context of making websites.*
+  2. *How to upload videos to blog posts.*
+  3. *Different tabs like Wiki and Pulse.*
 2. Codeanywhere
   1. *In relation to GitHub.*
-3. Languages
+  2. *Languages.*
+  3. *More file manipulation.
 
 * * * 
 
