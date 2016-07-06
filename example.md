@@ -10,21 +10,36 @@ I would like you to answer the following questions in a short answer format usin
 
 * * *
 
-GitHub Username: 
-Team name: 
-Today's date: 
+* GitHub Username: mikerw
+* Team name: Eureka
+* Today's date: 7/6/16
 
-What tools have you we worked with so far in this class?
+# What tools have you we worked with so far in this class?
+1. GitHub
+2. Codeanywhere
+3. Different fun languages
+4. Jekyll
 
-Which have you found most potentially useful? 
+## Which have you found most potentially useful?
+*GitHub*
 
-Why? 
+### Why? 
+*Because you can do so many things with it! Like share work and create blog posts*
 
-What tools have been the most difficult to learn? 
+# What tools have been the most difficult to learn? 
+1. GitHub
+2. Codeanywhere
 
-Why have they been particularly difficult to learn and use?
+## Why have they been particularly difficult to learn and use?
+*To me, it was difficult learning how to push and pull between the two, wanting something in one to show up in the other, and also
+learning how to move work done in the testing branch to GitHub.*
 
-What tools would you like to learn more about?
+# What tools would you like to learn more about?
+1. GitHub
+  1. *In the context of making websites.*
+2. Codeanywhere
+  1. *In relation to GitHub.*
+3. Languages
 
 * * * 
 
