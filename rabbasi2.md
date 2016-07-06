@@ -10,21 +10,33 @@ I would like you to answer the following questions in a short answer format usin
 
 * * *
 
-GitHub Username: 
-Team name: 
-Today's date: 
+* GitHub Username: rabbasi2
+* Team name: #1
+* Today's date: 07-06-16
 
-What tools have you we worked with so far in this class?
+# What tools have you we worked with so far in this class?
+- Github
+- CodeAnywhere
+- Markdown 
+- Jekyll
+- HTML  
+- CSS 
 
-Which have you found most potentially useful? 
+# Which have you found most potentially useful? 
+Pandoc is the most useful 
 
-Why? 
+### Why? 
+Becasue it makes converting files easy. You can go from one type of file to another with in minutes.
 
-What tools have been the most difficult to learn? 
+# What tools have been the most difficult to learn? 
+- GitHub
 
-Why have they been particularly difficult to learn and use?
+## Why have they been particularly difficult to learn and use?
+I don't think its diffcult to learn. It might be diffuclt to use, but we haven't spend a lot time learning github. 
+GitHub will be wasy to use if we spend more time on it.
 
-What tools would you like to learn more about?
+# What tools would you like to learn more about?
+I would like to learn more about github.
 
 * * * 
 
