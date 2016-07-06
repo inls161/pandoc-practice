@@ -27,11 +27,13 @@ I would like you to answer the following questions in a short answer format usin
 1. Github
 2. Codeanywhere
 3. Jekyll Template 
+
 ## Why? 
 These tools are **very useful** because when combined, one can build an *informative website.*
 
 # What tools have been the most difficult to learn? 
 **HTML, CSS, and Markdown** have been the most difficult to use when in the context of a **Jekyll Template.**
+
 ## Why have they been particularly difficult to learn and use?
 One must identify which language is being used in each part of the template so that one is able to *accurately* edit the template.
 
