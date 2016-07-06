@@ -10,21 +10,39 @@ I would like you to answer the following questions in a short answer format usin
 
 * * *
 
-GitHub Username: 
-Team name: 
-Today's date: 
+1. GitHub Username: lumizila  
+2. Team name: Orange
+3. Today's date: July 6th
 
-What tools have you we worked with so far in this class?
+# What tools have you we worked with so far in this class?
 
-Which have you found most potentially useful? 
+1. GitHub
+2. Codeanywhere
+3. pandoc
+4. jekyll
+5. html/css
+6. markdown
 
-Why? 
+## Which have you found most potentially useful? 
 
-What tools have been the most difficult to learn? 
+Github 
 
-Why have they been particularly difficult to learn and use?
+## Why? 
 
-What tools would you like to learn more about?
+Github is mostly useful to me since everyone in computer science uses it.
+
+# What tools have been the most difficult to learn? 
+
+Jekyll and markdown
+
+## Why have they been particularly difficult to learn and use?
+
+Because there are a lot of things going on when I use those that I have no control of and that are hidden from me. 
+It's hard to understand how markdown relates to web programming. 
+
+## What tools would you like to learn more about?
+
+LaTeX is something I'd be interested in learning better.
 
 * * * 
 
