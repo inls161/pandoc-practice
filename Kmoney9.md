@@ -10,21 +10,28 @@ I would like you to answer the following questions in a short answer format usin
 
 * * *
 
-GitHub Username: 
-Team name: 
-Today's date: 
+* GitHub Username: Kmoney9
+* Team name: Team Alpha 
+* Today's date: July 6, 2016
 
-What tools have you we worked with so far in this class?
+# What tools have you we worked with so far in this class?
+pandoc seems very helpful
 
-Which have you found most potentially useful? 
 
-Why? 
+# Which have you found most potentially useful? 
+The tool that i've found most useful was using githubithub
 
-What tools have been the most difficult to learn? 
+## Why? 
+i say this because everything id there 
 
-Why have they been particularly difficult to learn and use?
+# What tools have been the most difficult to learn? 
+The tools that i found most difficult to learn is pandoc at times 
 
-What tools would you like to learn more about?
+# Why have they been particularly difficult to learn and use?
+just the fact that we are just starting to use it 
+
+# What tools would you like to learn more about?
+I want to learn more about the tool pandoc 
 
 * * * 
 
