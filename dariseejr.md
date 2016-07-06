@@ -20,16 +20,20 @@ I would like you to answer the following questions in a short answer format usin
 * Visual & text-formatting languages
 * Jekyll
 * Pandoc
+
 ## Which have you found most potentially useful? 
 I found using GitHub the most useful.
+
 ### Why? 
 I think GitHub is a very useful application because it keeps track of changes over
 a large amount of data. Trying to keep track of those changes mentally would
 be very difficult, so I appreciate the functionality of GitHub.
+
 # What tools have been the most difficult to learn? 
 1. Terminals
 2. Visual & text-formating languages
 3. GitHub
+
 ## Why have they been particularly difficult to learn and use?
 I think the most difficult concept we've been over in the class has been using a terminal.
 Terminals all have different sort of commands and gets really confusing when you 
@@ -40,9 +44,11 @@ to understand. This mainly because of the different ways to implement colors and
 boxes on a website without using a UI for visual implementation.boxes
 
 GitHub is difficult to master, but I understand the basic workflow.
+
 # What tools would you like to learn more about?
 I would like to learn more about what I can do with these visual & tect-formating
 languages and also work more with GitHub.
+
 * * * 
 
 ***When you are finished with the questions in file:*** 
