@@ -10,21 +10,49 @@ I would like you to answer the following questions in a short answer format usin
 
 * * *
 
-GitHub Username: 
-Team name: 
-Today's date: 
+GitHub Username: healeyj
+Team name: Team #1
+Today's date: 07/01/16
 
-What tools have you we worked with so far in this class?
+# What tools have you we worked with so far in this class?
 
-Which have you found most potentially useful? 
++ codeanywhere remote linux system (ubuntu)
++ bash
++ git
++ less/vim
++ html
++ markdown
++ css
++ jekyll
++ ruby
++ pandoc
 
-Why? 
+## Which have you found most potentially useful? 
 
-What tools have been the most difficult to learn? 
++ pandoc
 
-Why have they been particularly difficult to learn and use?
+### Why? 
 
-What tools would you like to learn more about?
+goodbye manual formatting
+
+## What tools have been the most difficult to learn? 
+
++ css
++ ruby
+
+### Why have they been particularly difficult to learn and use?
+
+CSS is *extremely* nuanced to the point of daunting. Hunting around to change
+the website aesthetics is fun, but only for a few minutes before it becomes frustrating.the
+
+Ruby gave me hell when I first tried to install it, and I still don't
+understand what it even does.
+
+## What tools would you like to learn more about?
+
++ bash
++ pandoc
++ ruby
 
 * * * 
 
