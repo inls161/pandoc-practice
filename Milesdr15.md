@@ -10,22 +10,33 @@ I would like you to answer the following questions in a short answer format usin
 
 * * *
 
-GitHub Username: 
-Team name: 
-Today's date: 
+* GitHub Username: milesdr15 
+* Team name: dogwood 
+* Today's date: 7/6/16 
 
-What tools have you we worked with so far in this class?
+# What tools have you we worked with so far in this class?
 
-Which have you found most potentially useful? 
+* **github**
+* **codeanywhere**
 
-Why? 
+# Which have you found most potentially useful? 
 
-What tools have been the most difficult to learn? 
+**codeanywhere**
 
-Why have they been particularly difficult to learn and use?
+## Why? 
 
-What tools would you like to learn more about?
+*it can save a lot of time if used correctly*
 
+# What tools have been the most difficult to learn? 
+
+**Codeanywhere**
+
+## Why have they been particularly difficult to learn and use?
+
+*because you have to know how to use the codes correctly 
+
+# What tools would you like to learn more about?
+*I would like to learn more about codeanywhere*
 * * * 
 
 ***When you are finished with the questions in file:*** 
