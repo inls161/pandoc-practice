@@ -17,27 +17,27 @@ I would like you to answer the following questions in a short answer format usin
 
 ### What tools have you we worked with so far in this class?
 
-I have worked with GitHub, CSS, Jekyll, HTML, Pandoc and Markdown.
+I have worked with _GitHub_, _CSS_, _Jekyll_, _HTML_, _Pandoc_ and _Markdown_.
 
 ### Which have you found most potentially useful?
 
-I feel that I am starting to feel more comfortable with Markdown and feel that I will use it beyond this class.
+I feel that I am starting to feel more comfortable with _Markdown_ and feel that I will use it beyond this class.
 
 #### Why?
 
-I feel I can get around easier on this.
+I feel I can get around _easier_ on this.
 
 ### What tools have been the most difficult to learn? 
 
-HTML is the hardest for me.
+_HTML_ is the hardest for me.
 
 #### Why have they been particularly difficult to learn and use?
  
- I have found all the commands a little overwheming.
+ I have found all the commands a little _overwheming_.
 
 ### What tools would you like to learn more about?
 
-I will like to learn more about codeanywhere.
+I will like to learn more about _codeanywhere_.
 
 * * * 
 
