@@ -17,6 +17,7 @@ Today's date: 10/12/2016
 #What tools have you we worked with so far in this class?
 
 We have worked with *all* of these tools:
+
 * GitHub
 * Cloud9
 * Markdown
