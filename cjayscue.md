@@ -14,17 +14,37 @@ GitHub Username:
 Team name: 
 Today's date: 
 
-What tools have you we worked with so far in this class?
+# What tools have you we worked with so far in this class?
 
-Which have you found most potentially useful? 
+* GitHub
+* Cloud9
+* Jekyll
+* Pandoc
+* Unix
 
-Why? 
+# Which have you found most potentially useful?
 
-What tools have been the most difficult to learn? 
+**GitHub**
 
-Why have they been particularly difficult to learn and use?
+## Why?
 
-What tools would you like to learn more about?
+It is immensely helpful to have commits and changes simply and easily displayed
+in GitHub.
+
+# What tools have been the most difficult to learn? 
+
+Unix, **definately** Unix.
+
+## Why have they been particularly difficult to learn and use?
+
+Because the only programming I had ever done had been in PHP so none of the terms
+we used or tasks we were performing initially made any sense to me.
+
+# What tools would you like to learn more about?
+
+I would like to learn more of the capabilities of GitHub primarily because
+I love the *collaborative purpose* of the application.
+
 
 * * * 
 
