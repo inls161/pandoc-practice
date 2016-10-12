@@ -14,17 +14,32 @@ GitHub Username:
 Team name: 
 Today's date: 
 
-What tools have you we worked with so far in this class?
+# What tools have you we worked with so far in this class?
 
-Which have you found most potentially useful? 
+* *Github*
+* *Cloud9*
+* *Pandoc*
+* *LibreOffice*
 
-Why? 
+## Which have you found most potentially useful? 
 
-What tools have been the most difficult to learn? 
+*Cloud9*
 
-Why have they been particularly difficult to learn and use?
+## Why? 
 
-What tools would you like to learn more about?
+*Cloud9 allows me to work with the command line which can be used in a variety of different languages and programs*
+
+# What tools have been the most difficult to learn? 
+
+*Pandoc and Github*
+
+## Why have they been particularly difficult to learn and use?
+
+*We haven't had much time in Pandoc just yet, I'm sure it will get more clear. Github has been difficult because it can do so many things that I'm not sure of yet*
+
+# What tools would you like to learn more about?
+
+*I would love to learn more on Github and with Cloud9!*
 
 * * * 
 
