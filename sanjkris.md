@@ -10,21 +10,33 @@ I would like you to answer the following questions in a short answer format usin
 
 * * *
 
-GitHub Username: 
-Team name: 
-Today's date: 
+GitHub Username: sanjkris
+Team name: 2
+Today's date: 10/12/16
 
 What tools have you we worked with so far in this class?
 
+The tools we have worked with include **Github** and **Cloud9**. Within these systems, we have learned how to use *Markdown*, *branching*, and *css*.
+
 Which have you found most potentially useful? 
+
+Working with *Markdown* has been the most useful.
 
 Why? 
 
+It teaches you how to format text.
+
 What tools have been the most difficult to learn? 
+
+*Branching* was difficult to understand at first.
 
 Why have they been particularly difficult to learn and use?
 
+It had many steps, and I was confused about the order of which to do things.
+
 What tools would you like to learn more about?
+
+I would like to learn more about working with *css*.
 
 * * * 
 
