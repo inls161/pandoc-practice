@@ -27,10 +27,9 @@ open source site was like before and how it would be benefitial. Even if I never
 learning about GitHub has expanded my tech vocabulary and understanding.
 
 # What tools have been the most difficult to learn? 
-For me, learning Markdown and HTML has been the most difficult. It just doesn't come naturally to me to remember
-what each sysmbol does to change the text styles. 
 ## Why have they been particularly difficult to learn and use?
-I think Markdown and HTML have been the most difficult because it is so many little things to memorize. 
+For me, learning Markdown and HTML has been the most difficult. It just doesn't come naturally to me to remember
+what each sysmbol does to change the text styles. I think Markdown and HTML have been the most difficult because it is so many little things to memorize. 
 It's more like learning a whole new language. The git commands are more intuative. 
 
 # What tools would you like to learn more about?
