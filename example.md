@@ -10,21 +10,40 @@ I would like you to answer the following questions in a short answer format usin
 
 * * *
 
-GitHub Username: 
-Team name: 
-Today's date: 
+GitHub Username: efcline 
+Team name: Triptyc!
+Today's date: 10/12/16
 
-What tools have you we worked with so far in this class?
+# What tools have you we worked with so far in this class?
 
-Which have you found most potentially useful? 
+* CSS
+* HTML
+* Markdown
+* git and GitHub
+* Cloud9
+* pandoc
+* Jekyll 
 
-Why? 
+## Which have you found most potentially useful? 
 
-What tools have been the most difficult to learn? 
+Probably GitHub and Cloud9, with due consideration for the HTML/CSS/Markdown trio.
 
-Why have they been particularly difficult to learn and use?
+### Why? 
 
-What tools would you like to learn more about?
+I think Cloud9 and Github are *great!* I have to create a website for another class and I am hoping to convince my group we can use these tools to make an awesome website together.
+HTML I remember a lot from high school days, but it is valuable to know CSS and Markdown (so superior to HTML) as well.
+
+# What tools have been the most difficult to learn? 
+
+So far **pandoc** has been the most difficult.
+
+## Why have they been particularly difficult to learn and use?
+
+It's the newest tool in our bag, thus making it the strangest at this point in the semester, but I hope that in due time I will figure it out.
+
+# What tools would you like to learn more about?
+
+* Jekyll! Seems like a great tool and we've only talked about it a little so far.
 
 * * * 
 
