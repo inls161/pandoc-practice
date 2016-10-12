@@ -16,7 +16,7 @@ Today's date: 10/12/2016
 
 #What tools have you we worked with so far in this class?
 
-We have worked these tools:
+We have worked with *all* of these tools:
 * GitHub
 * Cloud9
 * Markdown
@@ -25,7 +25,7 @@ We have worked these tools:
 
 ## Which have you found most potentially useful? 
 
-I've found that knowledge of GitHub has been the most useful because it can incorporate into it usage of all the other tools mentioned before. 
+I've found that knowledge of **GitHub** has been the most useful because it can incorporate into it usage of all the other tools mentioned before. 
 
 ### Why? 
 
@@ -37,7 +37,7 @@ Keeping track of all of the different markup languages can be hard sometimes.
 
 ## Why have they been particularly difficult to learn and use?
 
-For instance, Markdown, HTML, and CSS all have similar functions but they are executed by different commands.
+For instance, Markdown, HTML, and CSS **all** have similar functions but they are executed by different commands.
 
 # What tools would you like to learn more about?
 
