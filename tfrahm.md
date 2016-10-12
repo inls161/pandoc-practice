@@ -10,21 +10,38 @@ I would like you to answer the following questions in a short answer format usin
 
 * * *
 
-GitHub Username: 
-Team name: 
-Today's date: 
+GitHub Username: tfrahm
+Team name: Git Outta Here
+Today's date: 10/12/16
 
-What tools have you we worked with so far in this class?
+# What tools have you we worked with so far in this class?
+   
+* git
+* cloud 9
+* jekyll
+* css
+* html
+* pandoc
 
-Which have you found most potentially useful? 
+## Which have you found most potentially useful? 
+   
+* git
 
-Why? 
+### Why? 
+   
+* because we can use it to do *ALL THE THINGS*!
 
-What tools have been the most difficult to learn? 
+## What tools have been the most difficult to learn? 
+   
+* git
 
-Why have they been particularly difficult to learn and use?
+### Why have they been particularly difficult to learn and use?
+   
+* because there are **so many** different steps to the process
 
-What tools would you like to learn more about?
+# What tools would you like to learn more about?
+   
+* different coding languages?
 
 * * * 
 
