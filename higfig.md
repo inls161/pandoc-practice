@@ -14,17 +14,31 @@ GitHub Username:
 Team name: 
 Today's date: 
 
-What tools have you we worked with so far in this class?
+# What tools have you we worked with so far in this class?
+* GitHub
+* Cloud 9
+* Jekyll
+* Pandoc
 
-Which have you found most potentially useful? 
+# Which have you found most potentially useful? 
 
-Why? 
+Cloud 9
 
-What tools have been the most difficult to learn? 
+## Why? 
+    
+It has been proven to be the most helpful because I have actually used it out of class for other projects.
 
-Why have they been particularly difficult to learn and use?
+# What tools have been the most difficult to learn? 
+    
+At the moment none have been too difficult, although at first each were intimidating to learn. 
 
-What tools would you like to learn more about?
+## Why have they been particularly difficult to learn and use?
+
+The only issue was actually using the tool and learning how to properly use it. 
+
+# What tools would you like to learn more about?
+
+Jekyll seems like an awesome tool I want to learn more about. 
 
 * * * 
 
