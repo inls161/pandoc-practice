@@ -10,21 +10,27 @@ I would like you to answer the following questions in a short answer format usin
 
 * * *
 
-GitHub Username: 
-Team name: 
-Today's date: 
+GitHub Username: emmacai
+Team name: Group 3
+Today's date: 10/12/2016
 
-What tools have you we worked with so far in this class?
+# What tools have you we worked with so far in this class?
+We've worked with Github, Cloud9, html, markdown, Pandoc, and the command line.
 
-Which have you found most potentially useful? 
+# Which have you found most potentially useful?
+I have found **Github** and **Cloud9** to have the greatest potential to be useful.
 
-Why? 
+## Why? 
+There seem to be *limitless* possibilities for growth within these two websites.
 
-What tools have been the most difficult to learn? 
+# What tools have been the most difficult to learn? 
+Html and markdown have been the most difficult to learn for me.
 
-Why have they been particularly difficult to learn and use?
+## Why have they been particularly difficult to learn and use?
+The differences between *html* and *markdown* have been hard for me to grasp and distinguish.
 
-What tools would you like to learn more about?
+# What tools would you like to learn more about?
+I want to be better and markdown skills, which I will only accomplish by **practicing**.
 
 * * * 
 
