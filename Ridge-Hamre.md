@@ -21,15 +21,25 @@ Today's date: 7/12/17
 * pandoc
 
 ## Which have you found most potentially useful? 
+
 github
+
 ### Why? 
+
 it has the most potential for collaboration
+
 # What tools have been the most difficult to learn? 
+
 codeanywhere 
+
 ## Why have they been particularly difficult to learn and use?
+
 there are many commands to learn in order to manipulate the too
+
 # What tools would you like to learn more about?
+
 git
+
 * * * 
 
 ***When you are finished with the questions in file:*** 
