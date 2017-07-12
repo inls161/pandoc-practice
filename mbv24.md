@@ -10,20 +10,35 @@ I would like you to answer the following questions in a short answer format usin
 
 * * *
 
-GitHub Username: 
-Today's date: 
+GitHub Username: mbv24 
+Today's date: 2017/07/12
 
-What tools have you we worked with so far in this class?
+# What tools have you worked with so far in this class? 
 
-Which have you found most potentially useful? 
+I have worked with:
+* _Github_
+* _Jekyll_
+* _Pandoc_
 
-Why? 
+## Which have you found most potentially useful? 
 
-What tools have been the most difficult to learn? 
+_Pandoc_ is potentially useful.
 
-Why have they been particularly difficult to learn and use?
+### Why? 
 
-What tools would you like to learn more about?
+_Pandoc_ can be used to convert files into different file types.
+
+# What tools have been the most difficult to learn? 
+
+Manipulating the Jekyll site was **relatively** difficult.
+
+## Why have they been particularly difficult to learn and use?
+
+There is more **creativity** involved.
+
+### What tools would you like to learn more about?
+
+I would like to learn more about _Pandoc_.
 
 * * * 
 
