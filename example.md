@@ -11,19 +11,27 @@ I would like you to answer the following questions in a short answer format usin
 * * *
 
 GitHub Username: 
-Today's date: 
+Today's date: 7/12/17
 
-What tools have you we worked with so far in this class?
+# What tools have you we worked with so far in this class?
+In this class I have worked with GitHub, Linux/Unix, Markdown, Pandoc, and Jekyll.
 
-Which have you found most potentially useful? 
+## Which have you found most potentially useful? 
+I have found GitHub and Linux/Univ to be the most useful so far.
 
-Why? 
+### Why?
+If you are able to use GitHub effectively, you can become a better collaborator in the workforce environment. 
+With Linux/Unix, I have enjoyed being able to use a remote terminal to access local work that is on my computer and then execute any changes that I've made.
 
-What tools have been the most difficult to learn? 
+## What tools have been the most difficult to learn? 
+I would say that Linx/Unix has been the most difficult to learn.
 
-Why have they been particularly difficult to learn and use?
+### Why have they been particularly difficult to learn and use?
+It's like learning a new lanugage. You have to understand the syntax, what everything does, and then how to use it appropriately.
 
-What tools would you like to learn more about?
+# What tools would you like to learn more about?
+Since I want to go into database and *possibly* systems analysis, I am excited to learn about SQL and other database manipulation and querying languages.
+I will be teaching myself Python (I know we are not going to cover this in this class).
 
 * * * 
 
