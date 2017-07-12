@@ -10,21 +10,28 @@ I would like you to answer the following questions in a short answer format usin
 
 * * *
 
-GitHub Username: 
-Today's date: 
+GitHub Username: lydiatnguyen
+Today's date: 07-12-17
 
-What tools have you we worked with so far in this class?
+# What tools have you we worked with so far in this class? 
+*GitHub 
+*Jekyll 
+*CodeAnywhere
 
-Which have you found most potentially useful? 
+# Which have you found most potentially useful? 
+**GitHub**
 
-Why? 
+## Why? 
+It is easy to use and makes the most sense to me. 
 
-What tools have been the most difficult to learn? 
+# What tools have been the most difficult to learn? 
+CodeAnywhere  
 
-Why have they been particularly difficult to learn and use?
+## Why have they been particularly difficult to learn and use?
+There is so much to navigate on the commandline and knowing what to do when can be confusing. It is very easy to get lost and then feel left behind and like I am scrambing to understand.  
 
-What tools would you like to learn more about?
-
+# What tools would you like to learn more about?
+I am unsure about my answer to this right now. 
 * * * 
 
 ***When you are finished with the questions in file:*** 
