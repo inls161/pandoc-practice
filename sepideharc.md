@@ -10,20 +10,31 @@ I would like you to answer the following questions in a short answer format usin
 
 * * *
 
-GitHub Username: 
-Today's date: 
+GitHub Username: sepideharc
+Today's date: 07/12/2017
 
-What tools have you we worked with so far in this class?
+# What tools have you we worked with so far in this class?
+ * Version Control through **Github**
+ * Website templates by Jekyll
+ * _Linux_ Command lines 
+ * Pandoc
 
-Which have you found most potentially useful? 
 
-Why? 
+## Which have you found most potentially useful? 
+  Version Control 
 
-What tools have been the most difficult to learn? 
 
-Why have they been particularly difficult to learn and use?
+### Why? 
+ It can be used for various projects.
 
-What tools would you like to learn more about?
+# What tools have been the most difficult to learn? 
+ Pandoc
+
+##Why have they been particularly difficult to learn and use?
+  **Dense** information that is hard to follow.
+ 
+# What tools would you like to learn more about?
+  Definitely pandoc and also Webdesign in Jekyll.
 
 * * * 
 
