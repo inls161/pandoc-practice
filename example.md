@@ -11,7 +11,6 @@ I would like you to answer the following questions in a short answer format usin
 * * *
 
 GitHub Username: 
-Team name: 
 Today's date: 
 
 What tools have you we worked with so far in this class?
