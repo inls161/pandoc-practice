@@ -1,4 +1,4 @@
-I would like you to answer the following questions in a short answer format using Markdown this morning. 
+I would like you to answer the following questions in a short answer format using Markdown. 
 
 # Turn all of the questions below into headers. 
 
@@ -10,43 +10,20 @@ I would like you to answer the following questions in a short answer format usin
 
 * * *
 
-GitHub Username: jdmar3
-Today's date: 2017-07-12
+GitHub Username: 
+Today's date: 
 
-# What tools have you we worked with so far in this class?
+What tools have you we worked with so far in this class?
 
-* git 
-* GitHub
-* apt-get
-* apt-cache
-* other UNIX commands for file manipulation and system info
-* jekyll 
-* gem (ruby)
-* wget
-* other UNIX commands for working with networks
+Which have you found most potentially useful? 
 
-## Which have you found most potentially useful? 
+Why? 
 
-_git_ is the **best** thing.
+What tools have been the most difficult to learn? 
 
-### Why? 
+Why have they been particularly difficult to learn and use?
 
-It manages my work and helps me not accidentally lose work.
-
-# What tools have been the most difficult to learn? 
-
-* UNIX commands
-* git
-
-## Why have they been particularly difficult to learn and use?
-
-They are very complex and have lots of possible options. 
-Also it is difficult to remember subcommands and switches.
-
-# What tools would you like to learn more about?
-
-* pandoc
-* _wget_
+What tools would you like to learn more about?
 
 * * * 
 
