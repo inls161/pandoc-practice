@@ -10,21 +10,33 @@ I would like you to answer the following questions in a short answer format usin
 
 * * *
 
-GitHub Username: 
-Today's date: 
+GitHub Username: jacksotl
+Today's date: 2017-07-12
 
-What tools have you we worked with so far in this class?
+# What tools have you we worked with so far in this class?
 
-Which have you found most potentially useful? 
+We have worked with codeanywhere, github, jekyll, and pandoc
 
-Why? 
+# Which have you found most potentially useful?
 
-What tools have been the most difficult to learn? 
+Github
 
-Why have they been particularly difficult to learn and use?
+# Why? 
 
-What tools would you like to learn more about?
+Github is easier to understand and less room to make mistakes.
 
+# What tools have been the most difficult to learn?
+
+Codeanywhere
+
+# Why have they been particularly difficult to learn and use?
+
+You have to memorize commands and you have to make sure your spelling is correct
+
+# What tools would you like to learn more about?
+
+I wish we could work more with github to advance our websites. There is stuff in the repository
+that I still don't understand. 
 * * * 
 
 ***When you are finished with the questions in file:*** 
